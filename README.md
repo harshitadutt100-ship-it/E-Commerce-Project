@@ -1,16 +1,16 @@
-E-Commerce Data Analysis
+# E-Commerce Data Analysis
 
 This project analyzes e-commerc
 e data to understand sales, revenue, profit, customers, products, categories, discounts, and business trends.
 
-Tools Used
+# Tools Used
 
 Python (Pandas, NumPy)
 Matplotlib & Seaborn
 Plotly & Dash
 Jupyter Notebook
 
-Key Work
+# Key Work
 
 Data cleaning and preprocessing
 Feature engineering
@@ -19,6 +19,6 @@ Exploratory Data Analysis
 Interactive visualizations
 Executive dashboard with KPIs
 
-Objective
+# Objective
 
 To transform raw e-commerce data into actionable business insights that support better sales, customer, product, and profitability decisions.

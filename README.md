@@ -1,11 +1,17 @@
-E-Commerce Sales Analytics
-This project analyzes e-commerce transaction data to understand sales, profit, customer behavior, product performance, and regional trends.
-Features
-Data cleaning and feature engineering  
-Revenue, profit, AOV, and rating analysis  
-Product, category, brand, and customer insights  
-Interactive Plotly visualizations  
-Dash executive dashboard  
-Optional PostgreSQL data export
-Tech Stack
-Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash, SQLAlchemy, and PostgreSQL.
+E-Commerce Data Analysis
+This project analyzes e-commerce data to understand sales, revenue, profit, customers, products, categories, discounts, and business trends.
+
+Tools Used
+Python (Pandas, NumPy)
+Matplotlib & Seaborn
+Plotly & Dash
+Jupyter Notebook
+Key Work
+Data cleaning and preprocessing
+Feature engineering
+Exploratory Data Analysis
+30+ business questions
+Interactive visualizations
+Executive dashboard with KPIs
+Objective
+To transform raw e-commerce data into actionable business insights that support better sales, customer, product, and profitability decisions.

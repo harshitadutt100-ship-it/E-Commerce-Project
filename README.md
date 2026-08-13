@@ -1,2 +1,11 @@
-# E-Commerce-Project
-A modern e-commerce platform that enables customers to browse products, manage carts, place secure orders, and track deliveries. It includes user authentication, product search and filtering, payment integration, inventory management, and an admin dashboard for managing products and orders.
+E-Commerce Sales Analytics
+This project analyzes e-commerce transaction data to understand sales, profit, customer behavior, product performance, and regional trends.
+Features
+Data cleaning and feature engineering  
+Revenue, profit, AOV, and rating analysis  
+Product, category, brand, and customer insights  
+Interactive Plotly visualizations  
+Dash executive dashboard  
+Optional PostgreSQL data export
+Tech Stack
+Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash, SQLAlchemy, and PostgreSQL.
